@@ -83,4 +83,21 @@
 	]}
 />
 <AboutTeaser generating />
-<CallToAction generating />
+<CallToAction 
+	title="Stop researching. Start selling."
+	subtitle="Your time is worth more than endless prospect hunting"
+	description="Spend less time tracking down overseas buyers and more time closing deals. RINDA automates global buyer discovery and outreach—so your team saves up to 80% of their time while connecting with real importers, in their language."
+	imageSrc="/generated/image-a-professional-korean-export-manager-smi.webp"
+	callsToAction={[
+		{
+			href: "/get-started",
+			label: "Start connecting with global buyers",
+			variant: "primary"
+		},
+		{
+			href: "/demo",
+			label: "See how it works",
+			variant: "secondary"
+		}
+	]}
+/>
