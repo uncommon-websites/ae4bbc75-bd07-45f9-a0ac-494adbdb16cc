@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Find buyers. Close deals faster."
+	subtitle="Skip the manual research. We bring global leads to you."
+	imageSrc="/generated/image-photorealistic-editorial-style-image-of-.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by export leaders worldwide"
+	logoUrls={[
+		'https://cdn.brandfetch.io/samsung.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/lg.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/hyundai.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/posco.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
