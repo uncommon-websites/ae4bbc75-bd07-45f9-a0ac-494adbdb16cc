@@ -32,31 +32,30 @@
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Kim Min-ho",
+			position: "Export Manager",
+			company: "Seoul Precision Manufacturing",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"RINDA transformed our overseas sales process completely. We went from spending 6 hours daily researching prospects to closing 3x more deals in half the time.\nThe multilingual outreach automation helped us break into European markets we couldn't reach before.",
+			image: "/generated/image-a-professional-asian-male-export-manager.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Elena Rosenberg",
+			position: "International Sales Director",
+			company: "Alpine Industrial Components",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Before RINDA, we were losing potential buyers due to language barriers and slow response times. Now our AI-powered system responds in 12 languages within minutes.\nOur international revenue grew 250% in just 8 months, and I finally have time to focus on closing deals instead of endless research.",
+			image: "/generated/image-a-professional-european-female-manufactu.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Omar Al-Rashid",
+			position: "Founder & CEO",
+			company: "Gulf Manufacturing Solutions",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"RINDA's buyer discovery engine found qualified prospects we never would have identified manually. The risk of expanding into new markets felt manageable for the first time.\nWe saved $80,000 in market research costs while connecting with 500+ verified buyers across 15 countries.",
+			image: "/generated/image-a-professional-middle-eastern-male-busin.webp"
 		}
 	]}
 />
